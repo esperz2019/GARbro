@@ -223,7 +223,7 @@
     <Compile Include="Mink\ImageGDF.cs" />
     <Compile Include="Mutation\ImageRBM.cs" />
     <Compile Include="Nabe\ImageYPF.cs" />
-    <Compile Include="Nanami\ArcBMM.cs" />
+    <!-- Compile Include="Nanami\ArcBMM.cs" /-->
     <Compile Include="Nekotaro\ArcNSC.cs" />
     <Compile Include="Nekotaro\ImageGCmp.cs" />
     <Compile Include="PlanTech\ArcPAC.cs" />
