@@ -23,8 +23,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image.Convert", "Image.Conv
 		{A8865685-27CC-427B-AC38-E48D2AD05DF4} = {A8865685-27CC-427B-AC38-E48D2AD05DF4}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemeBuilder", "SchemeBuilder\SchemeBuilder.csproj", "{B7E7EBFB-C06E-4FC8-9AF2-7CD132AB15FD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental", "Experimental\Experimental.csproj", "{60054FD9-4472-4BB4-9E3D-2F80D3D22468}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legacy", "Legacy\Legacy.csproj", "{C79E82A8-8D32-485D-8442-2D4F71FBB5D5}"
